@@ -2,3 +2,5 @@
 
 11/8/2018 - Started and completed Section 1
             5/262 (2% Completed)
+11/9/2018 - Started and completed Section 2
+            79/262 (31% Completed)
